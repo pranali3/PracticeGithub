@@ -1,2 +1,3 @@
 # PracticeGithub
-To add projects
+PracticeGithub is a repository for showing how to convert sign language to text
+using an android app.
